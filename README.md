@@ -1,5 +1,7 @@
 # Build release APKs
+
 Run Maui8App\apk.cmd
+
 Run Maui9App\apk.cmd
 
 # Run Tests
